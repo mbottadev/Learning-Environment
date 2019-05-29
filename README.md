@@ -15,7 +15,7 @@ https://github.com/becodeorg/BXL-Lovelace-3.9/blob/master/parcours/01-La-prairie
 
 * Explore HTML
     
-## Langages utilisés
+## Langages
 
 * HTML 
 * CSS
