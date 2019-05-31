@@ -1,6 +1,6 @@
 # Learning-Environment
 
-## Time-line
+## Timeline
 Exercice realised at the very beginning of the training, on the second week.
 
 ## _Exercise Instructions:_ 
